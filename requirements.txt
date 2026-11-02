@@ -1,0 +1,10 @@
+sqlalchemy
+pymysql
+sqlglot
+langgraph
+langchain-google-genai
+fastapi
+uvicorn
+streamlit
+requests
+pandas

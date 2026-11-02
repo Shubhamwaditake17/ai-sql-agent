@@ -1,0 +1,16 @@
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Mac
+.DS_Store
+
+# IDE
+.vscode/
